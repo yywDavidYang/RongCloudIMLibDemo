@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - FDFullscreenPopGesture (1.1)
+  - Masonry (1.0.0)
+  - RongCloudIMLib (2.5.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - TTTAttributedLabel (1.13.4)
+  - XXNibBridge (2.2.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - FDFullscreenPopGesture (~> 1.1)
+  - Masonry (~> 1.0.0)
+  - RongCloudIMLib (= 2.5.0)
+  - SDWebImage (~> 3.7.6)
+  - TTTAttributedLabel (~> 1.13.4)
+  - XXNibBridge (~> 2.2.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  RongCloudIMLib: 9934b9baf3e35dcaf2254a6b1e617af0eec065da
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+  XXNibBridge: 70adcf1e85a2b5500d9de5f12781944dc51b0521
+
+COCOAPODS: 0.39.0
